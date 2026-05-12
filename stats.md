@@ -1,5 +1,5 @@
-# 📊 Learning Stats
+# 📊 学习统计
 
-- Total days logged: 1
-- Topics covered: 1
-- Last updated: 2026-05-09
+- 已记录天数：2
+- 已覆盖主题：0
+- 最后更新：2026-05-12
